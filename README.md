@@ -2,8 +2,6 @@
 
 My name is Bento Neto and I'm very happy that you've made it here, please sit down, open your favorite drink, and let's chat!
 
-**Bentoxx/Bentoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I am working on my career transition;
@@ -14,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 He/Him;
 - ⚡ I am a supporter of Esporte Clube Bahia and I'm happy about it...
 
-![Snake animation](https://github.com/Bentoxx/Bentoxx/blob/output/github-contribution-grid-snake.svg)
 
 ## Tools n' Technologies:
 
