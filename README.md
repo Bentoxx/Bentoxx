@@ -2,15 +2,6 @@
 
 My name is Bento Neto and I'm very happy that you've made it here, please sit down, open your favorite drink, and let's chat!
 
-Here are some ideas to get you started:
-
-- 🔭 I am working on my career transition;
-- 🌱 I am studying to become a Full Stack Developer;
-- 👯 I can assist with initial development techniques, it's will be changed soon, i promiss;
-- 🤔 I need help with acquiring opportunities;
-- 💬 Ask me about Administration, Logistics, Computer Maintenance... I already understand that;
-- 😄 He/Him;
-- ⚡ I am a supporter of Esporte Clube Bahia and I'm happy about it...
 
 
 ## Tools n' Technologies:
