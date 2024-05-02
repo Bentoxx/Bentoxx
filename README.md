@@ -3,9 +3,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f9c701&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Bento+and+you're+Wellcome!)](https://git.io/typing-svg)
 
+About me:
+
+Hello, my name is Bento José and I am a technology enthusiast since the time when operating systems were installed with numerous 3 1/4" floppy disks. Yes, I am biologically old, but I have kept alive the desire for new learning and challenges, which has led me at this point to resume the dream of becoming a programmer that I had interrupted in mid-2013, when I decided to stop the Systems Analysis course at the Federal Institute of Bahia, IFBA for short.
+
+My life motto was said by the Supreme Optimus Prime:
+
+"You may lose faith in us, but you must never lose faith in yourselves."
+
+This changed my perception of the world and here I am, maintaining faith in myself and in the Autobots, of course!
+
 <div align="center">
 <a href="https://github.com/Bentoxx">
-<img loading="lazy" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bentoxx&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bentoxx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
