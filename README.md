@@ -1,5 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=header"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
 
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f9c701&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Bento+and+you're+Wellcome!)](https://git.io/typing-svg)
 
@@ -50,4 +51,6 @@ This changed my perception of the world and here I am, maintaining faith in myse
                     
           
           
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=footer"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+<br><br>
