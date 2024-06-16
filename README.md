@@ -48,7 +48,11 @@ This changed my perception of the world and here I am, maintaining faith in myse
 <a href="https://www.linkedin.com/in/bento-josé-de-santana-neto" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
                     
-          
+<div align="center">
+<br><p align="centre"><b>Visitantes:</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lucasjcc}/count.svg" /></p> 
+<br>
+</div>          
           
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
