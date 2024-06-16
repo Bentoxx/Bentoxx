@@ -23,7 +23,7 @@ This changed my perception of the world and here I am, maintaining faith in myse
 
 ## Tools n' Technologies:
 
-<h3 align="left">Tools n' Tecnologies</h3>
+<h3 align="left">This is my go-to:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,pr,apple,linux,windows" />
