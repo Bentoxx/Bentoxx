@@ -15,8 +15,8 @@ My life motto was said by the Supreme Optimus Prime:
 This changed my perception of the world and here I am, maintaining faith in myself and in the Autobots, of course!
 
 <div align="center">
-<a href="https://github.com/Bentoxx">
-<img loading="lazy" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bentoxx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bentoxx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bentoxx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bentoxx&bg_color=0e0e27&color=f5c402&line=f5c402&point=f5c402&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
